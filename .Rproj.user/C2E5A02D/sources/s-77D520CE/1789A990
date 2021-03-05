@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1614959632432.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "74918388",
+    "id" : "1789A990",
+    "lastKnownWriteTime" : 1614959753,
+    "last_content_update" : 1614959753585,
+    "path" : "~/Documents/tb2/Project/ExtChiarella/R/ExtendedChiarellaSim.R",
+    "project_path" : "R/ExtendedChiarellaSim.R",
+    "properties" : {
+        "cursorPosition" : "261,19",
+        "scrollLine" : "247"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

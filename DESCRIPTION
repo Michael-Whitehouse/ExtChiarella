@@ -1,0 +1,12 @@
+Package: ExtChiarella
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2020-12-08
+Author: Michael Whitehouse
+Maintainer: m.whitehouse@bristol.ac.uk
+Description: Collection of functions for simulating and estimating the Extended Chiarella model for asset prices.
+License: What license is it under?
+Imports: Rcpp (>= 1.0.3)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.0.2
